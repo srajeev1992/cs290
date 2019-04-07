@@ -1,4 +1,0 @@
-VPN to sds.oregonstate.edu
-SSH to flip3.engr.oregonstate.edu
-go into diagnostics dir (/cs290/CS<TAB>/diagnostics/)
-node diagnostics.js <port number> (I do 8001 for the last 4 of my STUDENT ID)
